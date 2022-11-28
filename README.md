@@ -1,8 +1,7 @@
 # Autonomous-RC-Car
 RC Car's Remote Control Autonomously Controlled by Servos using AI. 
-![Video](https://vimeo.com/775629956)
-![TANK.JPG](https://github.com/stevensmiley1989/Autonomous-RC-Car/blob/main/misc/IMG_0625.JPG)
 
+![GIF](https://github.com/stevensmiley1989/Autonomous-RC-Car/blob/main/misc/SMHX8455.GIF)
 
 Hardware
 ------------------
