@@ -35,8 +35,6 @@ Hardware
 
    
    
-   
-
 
 Prerequisites
 ------------------
@@ -60,6 +58,12 @@ Yolov7
 Installation
 ------------------
 ~~~~~~~
+
+Arduino Nano
+.. Use Arduino IDE and upload code in Arduino_Nano directory
+~~~~~~~
+~~~~~~~
+Jetson Orin AGX
 
 Python 3 + Tkinter
 .. code:: shell
