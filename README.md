@@ -55,12 +55,15 @@ Yolov7
 ~~~~~~~
 
 
+Download COCO weights for YOLOv7 from here and put in weights directory as
+[best.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt)
+
 Installation
 ------------------
 ~~~~~~~
 
 Arduino Nano
-.. Use Arduino IDE and upload code in Arduino_Nano directory
+.. Use Arduino IDE and upload code in Arduino_Nano_Code directory
 ~~~~~~~
 ~~~~~~~
 Jetson Orin AGX
